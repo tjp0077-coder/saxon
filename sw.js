@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dog-feeder-cache-v1';
+const CACHE_NAME = 'dog-feeder-cache-v2';
 const ASSETS = [
   'index.html',
   'manifest.json',
